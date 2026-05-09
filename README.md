@@ -5,6 +5,14 @@ Passionate about building high-performance applications and exploring the depths
 
 ---
 
+### ?? Featured Showcase Projects
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Aether SaaS Showcase](https://github.com/JUS7205/aether-saas-showcase)** | Premium Next.js SaaS template with glassmorphic design and high-performance components. | Next.js, Framer Motion, Tailwind |
+| **[Vulcan Core Library](https://github.com/JUS7205/vulcan-core-library)** | High-performance C++20 system utility framework for low-level research. | C++20, CMake, SIMD |
+
+---
+
 ### ?? Tech Stack
 
 | Category | Tools & Languages |
@@ -21,7 +29,7 @@ Passionate about building high-performance applications and exploring the depths
 
 ---
 
-### ?? Connect with me
-- ?? Working on: **Premium SaaS solutions & Game Security research**
-- ?? Learning: **Advanced Kernel-mode bypasses & Distributed Systems**
+### ?? Freelance Inquiries
+- ?? Currently available for: **SaaS Development, C++ System Tools, and Security Audits.**
+- ?? Reach out via Discord: **JUS7205**
 - ? Fun fact: **I prefer low-level C++ over anything else.**
